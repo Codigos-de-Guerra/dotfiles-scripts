@@ -5,7 +5,7 @@
 # Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 # and is **provided "AS IS" without warranties or conditions of any kind**.
 #
-# OUT="$(mktemp)"; wget -q -O - https://raw.githubusercontent.com/bowmanjd/dotfile-scripts/main/bare.sh > $OUT; . $OUT
+# OUT="$(mktemp)"; wget -q -O - https://raw.githubusercontent.com/Codigos-de-Guerra/dotfiles-scripts/main/bare_setup.sh > $OUT; . $OUT
 #
 # Now you can use "dtfnew $repo_url" to set up a new repo, or "dtfcopy $repo_url"
 # to download and configure an already populated repo. Then use "dtf" instead of "git"
